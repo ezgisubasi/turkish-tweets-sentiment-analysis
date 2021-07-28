@@ -22,6 +22,8 @@
 
 ### Positive Negative Balance
 
+
+
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127268283-0ac12507-17b4-4e5c-9181-1dbb1fb6bc69.png">   
 </p>
@@ -31,11 +33,39 @@
 
 ## Visulazing N-Grams
 
+
+
+<p align="center">    
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127269418-cfd7a698-58e2-49c4-b14b-b7debb2abb38.png">   
+</p>
+
+
+### Top Unigrams
+
+<p align="center">    
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127271988-f60ed25c-ea82-4773-b999-3b1697d6a87f.png">   
+</p>
+
+
 ### Top Bigrams
+
+<p align="center">    
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272115-769ea322-1457-49bf-971c-7895e9be9f5c.png">   
+</p>
+
 
 ### Top Trigrams
 
+<p align="center">    
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272152-512d2756-be08-4896-be0e-5de2a3c06c1c.png">   
+</p>
+
+
 ## WordCloud
+
+<p align="center">    
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272152-512d2756-be08-4896-be0e-5de2a3c06c1c.png">   
+</p>
 
 
 # Model Performance
