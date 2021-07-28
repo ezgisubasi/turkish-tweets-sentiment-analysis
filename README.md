@@ -59,14 +59,14 @@
 # Deep Learning
 
 
-
-# Model Performance
-
 # Handling Overfitting
 
 * Reducing network's size
 * Adding regularization
 * Addinh dropout layers
+
+
+# Model Performance
 
 
 
