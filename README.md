@@ -1,7 +1,7 @@
 # turkish-tweets-sentiment-analysis
 
 <p align="center"> 
-   <img width="900" height="100" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
+   <img width="900" height="500" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
 </p>
 
 # Text Preprocessing
