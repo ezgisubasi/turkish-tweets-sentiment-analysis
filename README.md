@@ -17,22 +17,16 @@
 # Zemberek
 
 
-
 # Data Visualization
 
 ### Positive Negative Balance
-
-
 
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127268283-0ac12507-17b4-4e5c-9181-1dbb1fb6bc69.png">   
 </p>
 
 
-### Top Words
-
 ## Visulazing N-Grams
-
 
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127269418-cfd7a698-58e2-49c4-b14b-b7debb2abb38.png">   
@@ -64,11 +58,15 @@
 
 # Deep Learning
 
+
+
 # Model Performance
 
 # Handling Overfitting
 
-
+* Reducing network's size
+* Adding regularization
+* Addinh dropout layers
 
 
 
