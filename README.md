@@ -4,8 +4,6 @@
    <img width="900" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
 </p>
 
-
-
 This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative.
 
 
@@ -69,6 +67,8 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 # Deep Learning
 
+
+
 ## Baseline Model
 
 ### Handling Overfitting
@@ -101,7 +101,7 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 # Model Performance
 
 <p align="center">    
-   <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128791676-c8137a52-4efb-47cc-a79a-56e1c044d5c4.png"> 
+   <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
 </p>
 
 
