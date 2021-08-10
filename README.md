@@ -68,7 +68,7 @@ Finally, if N=3, it is a trigram. In trigrams, the frequencies of the words are 
 WordCloud is a visualization technique for text data wherein each word is picturized with its importance in the context or its frequency. This is a very handy application when it comes to understanding the crux of the text. In the WordCloud example below, a distribution has occurred according to the most used words among all tweets in the dataset.
 
 <p align="center">    
-   <img width="650" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272362-b1061dc8-984e-49b4-b42f-4317e6e12344.png">   
+   <img width="700" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272362-b1061dc8-984e-49b4-b42f-4317e6e12344.png">   
 </p>
 
 # Deep Learning
