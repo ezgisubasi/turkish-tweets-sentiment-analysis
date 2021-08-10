@@ -73,9 +73,9 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 # Deep Learning
 
-
-
 ## Baseline Model
+
+The Baseline Model has 2 densely connected layers of 64 hidden elements at the beginning. The input_shape for the first layer is equal to the number of words we allowed in the dictionary and for which we created one-hot-encoded features. In order to predict 2 different sentiments, the last layer has 2 hidden elements. The softmax activation function makes sure the three probabilities sum up to 1.
 
 ### Handling Overfitting
 
@@ -105,6 +105,8 @@ Lastly, I added dropout layers to the model. It starts overfitting a bit later a
 
 ## Embedding Layer
 
+Keras provides an Embedding Layer that helps to train specific word embeddings based on the training data. It converts the words in the vocabulary to multi-dimensional vectors.
+
 <p align="center">    
    <img width="535" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
 </p>
@@ -114,6 +116,8 @@ Lastly, I added dropout layers to the model. It starts overfitting a bit later a
 </p>
 
 ## Pre-trained Word Embedding: GloVe
+
+Since the training data is not so big, the model might not be able to learn good embeddings for the sentiment analysis. Luckily we can load pre-trained word embeddings built on much larger training data. The GloVe database contains multiple pre-trained word embeddings and more specific embeddings trained on tweets.
 
 <p align="center">      
    <img width="535" alt="Ekran Resmi 2021-08-10 20 14 20" src="https://user-images.githubusercontent.com/52889449/128904805-f6f5e304-62bc-4fcb-862b-73981592a601.png">
@@ -127,7 +131,7 @@ Lastly, I added dropout layers to the model. It starts overfitting a bit later a
 # Model Performance
 
 <p align="center">    
-   <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
+   <img width="600" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
 </p>
 
 
