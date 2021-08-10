@@ -44,7 +44,7 @@ N-gram is a language model which predicts the probability of a given N-gram with
 When N=1, it becomes a unigram. Unigram considers words in the text one by one. According to the words frequency bar chart, "bir" is the most used unigram.
 
 <p align="center">    
-   <img width="500" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127271988-f60ed25c-ea82-4773-b999-3b1697d6a87f.png">   
+   <img width="600" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127271988-f60ed25c-ea82-4773-b999-3b1697d6a87f.png">   
 </p>
 
 ### Top Bigrams
@@ -52,7 +52,7 @@ When N=1, it becomes a unigram. Unigram considers words in the text one by one. 
 When N=2, it is called a bigram. In the bigram, words are handled in pairs. In this dataset, the most used bigram is "orospu çocuk".
 
 <p align="center">    
-   <img width="500" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272115-769ea322-1457-49bf-971c-7895e9be9f5c.png">   
+   <img width="600" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272115-769ea322-1457-49bf-971c-7895e9be9f5c.png">   
 </p>
 
 ### Top Trigrams
@@ -60,7 +60,7 @@ When N=2, it is called a bigram. In the bigram, words are handled in pairs. In t
 Finally, if N=3, it is a trigram. In trigrams, the frequencies of the words are evaluated in groups of three words. Accordingly, the most occurred trigram in the dataset is "allah bela vermek".
 
 <p align="center">    
-   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272152-512d2756-be08-4896-be0e-5de2a3c06c1c.png">   
+   <img width="600" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272152-512d2756-be08-4896-be0e-5de2a3c06c1c.png">   
 </p>
 
 ## WordCloud
@@ -68,7 +68,7 @@ Finally, if N=3, it is a trigram. In trigrams, the frequencies of the words are 
 WordCloud is a visualization technique for text data wherein each word is picturized with its importance in the context or its frequency. This is a very handy application when it comes to understanding the crux of the text. In the WordCloud example below, a distribution has occurred according to the most used words among all tweets in the dataset.
 
 <p align="center">    
-   <img width="550" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272362-b1061dc8-984e-49b4-b42f-4317e6e12344.png">   
+   <img width="650" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272362-b1061dc8-984e-49b4-b42f-4317e6e12344.png">   
 </p>
 
 # Deep Learning
