@@ -28,7 +28,7 @@ Zemberek is a natural language processing (NLP) tool that works with the Turkish
 It shows how many percent of tweets are positive or negative.
 
 <p align="center">    
-   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127268283-0ac12507-17b4-4e5c-9181-1dbb1fb6bc69.png">   
+   <img width="475" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127268283-0ac12507-17b4-4e5c-9181-1dbb1fb6bc69.png">   
 </p>
 
 ## Visulazing N-Grams
