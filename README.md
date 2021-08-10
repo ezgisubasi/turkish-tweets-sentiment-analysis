@@ -79,14 +79,17 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 ### Handling Overfitting
 
-* Reducing network's size
+* Reducing network's size 
+
+I reduced the size of the network by removing one layer and reducing the number of hidden elements in the remaining layer to 32. According to the graph, we can observe that loss increases much slower compared to the baseline model. It takes more epochs before the reduced model starts overfitting.
 
 <p align="center">    
    <img width="535" alt="Ekran Resmi 2021-08-10 03 29 54" src="https://user-images.githubusercontent.com/52889449/128790723-1b3cab55-731e-4d01-a77b-e9a2fa99faf7.png">
 </p>
 
-
 * Adding regularization
+
+I added L2 regularization to the model for dealing with overfitting. According to the graph, it starts overfitting earlier than the baseline model. However, the loss increases much slower afterward.
 
 <p align="center">    
    <img width="535" alt="Ekran Resmi 2021-08-10 03 30 43" src="https://user-images.githubusercontent.com/52889449/128790772-6a6ca4d3-0d62-42ee-9cc1-28f3a0ebccba.png">
@@ -94,6 +97,7 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 * Adding dropout layers
 
+Lastly, I added dropout layers to the model. It starts overfitting a bit later and the loss also increases slower than the baseline model.
 
 <p align="center">    
    <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128790816-88b6a4cd-458a-4673-af50-10f1e2a19e10.png"> 
