@@ -1,17 +1,5 @@
 # turkish-tweets-sentiment-analysis
 
-<p align="center">    
-   <img width="400" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
-    <img width="400" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
-</p>
-
-
-
-
-
------
-
-
 <p align="center"> 
    <img width="900" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
 </p>
@@ -120,11 +108,8 @@ Lastly, I added dropout layers to the model. It starts overfitting a bit later a
 Keras provides an Embedding Layer that helps to train specific word embeddings based on the training data. It converts the words in the vocabulary to multi-dimensional vectors.
 
 <p align="center">    
-   <img width="380" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
-</p>
-
-<p align="center">    
-   <img width="380" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
+   <img width="400" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
+    <img width="400" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
 </p>
 
 ## Pre-trained Word Embedding: GloVe
@@ -132,22 +117,14 @@ Keras provides an Embedding Layer that helps to train specific word embeddings b
 Since the training data is not so big, the model might not be able to learn good embeddings for the sentiment analysis. Luckily we can load pre-trained word embeddings built on much larger training data. The GloVe database contains multiple pre-trained word embeddings and more specific embeddings trained on tweets.
 
 <p align="center">      
-   <img width="535" alt="Ekran Resmi 2021-08-10 20 14 20" src="https://user-images.githubusercontent.com/52889449/128904805-f6f5e304-62bc-4fcb-862b-73981592a601.png">
-</p>
-
-<p align="center">    
-   <img width="535" alt="Ekran Resmi 2021-08-10 20 14 35" src="https://user-images.githubusercontent.com/52889449/128904744-a1760da6-96bd-4f89-884e-e08fecdf1454.png">
+   <img width="400" alt="Ekran Resmi 2021-08-10 20 14 20" src="https://user-images.githubusercontent.com/52889449/128904805-f6f5e304-62bc-4fcb-862b-73981592a601.png">  
+   <img width="400" alt="Ekran Resmi 2021-08-10 20 14 35" src="https://user-images.githubusercontent.com/52889449/128904744-a1760da6-96bd-4f89-884e-e08fecdf1454.png">
 </p>
 
 
 # Model Performance
 
 <p align="center">    
-   <img width="600" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
+   <img width="700" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
 </p>
-
-
-
-
-
 
