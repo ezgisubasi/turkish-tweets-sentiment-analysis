@@ -108,8 +108,8 @@ Lastly, I added dropout layers to the model. It starts overfitting a bit later a
 Keras provides an Embedding Layer that helps to train specific word embeddings based on the training data. It converts the words in the vocabulary to multi-dimensional vectors.
 
 <p align="center">    
-   <img width="400" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
-    <img width="400" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
+   <img width="425" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
+    <img width="425" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
 </p>
 
 ## Pre-trained Word Embedding: GloVe
@@ -125,6 +125,6 @@ Since the training data is not so big, the model might not be able to learn good
 # Model Performance
 
 <p align="center">    
-   <img width="650" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
+   <img width="625" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
 </p>
 
