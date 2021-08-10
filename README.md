@@ -124,7 +124,8 @@ Since the training data is not so big, the model might not be able to learn good
 
 # Model Performance
 
+According to the accuracy scores obtained at the end of the project, the best model is the Regularized Model with an accuracy of 87.03%. Although the Embedding Layer and Pre-trained Word Embedding: GloVe were modeled separately, the performance result was not as good as the Regularized Model.
+
 <p align="center">    
    <img width="625" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128904072-c640a7d4-e758-4173-9008-e1b464641eeb.png"> 
 </p>
-
