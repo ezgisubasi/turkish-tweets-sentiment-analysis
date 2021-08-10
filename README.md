@@ -6,6 +6,9 @@
 
 
 
+This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative.
+
+
 # Text Preprocessing
 
 * Convert to lower case
