@@ -84,7 +84,10 @@
 
 # Model Performance
 
-![image](https://user-images.githubusercontent.com/52889449/128791676-c8137a52-4efb-47cc-a79a-56e1c044d5c4.png)
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128791676-c8137a52-4efb-47cc-a79a-56e1c044d5c4.png"> 
+</p>
 
 
 
