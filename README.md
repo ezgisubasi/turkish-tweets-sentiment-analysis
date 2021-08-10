@@ -95,7 +95,23 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 ## Embedding Layer
 
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 20 13 41" src="https://user-images.githubusercontent.com/52889449/128904882-a5113a14-d2c0-40e5-aafe-66a39e0edbc6.png">   
+</p>
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 20 13 56" src="https://user-images.githubusercontent.com/52889449/128904839-171e10ec-b2cf-4804-ac14-4726b6737797.png">
+</p>
+
 ## Pre-trained Word Embedding: GloVe
+
+<p align="center">      
+   <img width="535" alt="Ekran Resmi 2021-08-10 20 14 20" src="https://user-images.githubusercontent.com/52889449/128904805-f6f5e304-62bc-4fcb-862b-73981592a601.png">
+</p>
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 20 14 35" src="https://user-images.githubusercontent.com/52889449/128904744-a1760da6-96bd-4f89-884e-e08fecdf1454.png">
+</p>
 
 
 # Model Performance
