@@ -35,7 +35,7 @@ It shows how many percent of tweets are positive or negative.
 
 ## Visulazing N-Grams
 
-An N-gram language model predicts the probability of a given N-gram within any sequence of words in the language. If we have a good N-gram model, we can predict p(w | h) – what is the probability of seeing the word w given a history of previous words h – where the history contains n-1 words.
+N-gram is a language model which predicts the probability of a given N-gram within any sequence of words in the language. If we have a good N-gram model, we can predict p(w | h) – what is the probability of seeing the word w given a history of previous words h – where the history contains n-1 words.
 
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127269418-cfd7a698-58e2-49c4-b14b-b7debb2abb38.png">   
@@ -60,6 +60,8 @@ An N-gram language model predicts the probability of a given N-gram within any s
 </p>
 
 ## WordCloud
+
+WordCloud is a visualization technique for text data wherein each word is picturized with its importance in the context or its frequency. This is a very handy application when it comes to understanding the crux of the text. In the WordCloud example below, a distribution has occurred according to the most used words among all tweets in the dataset.
 
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127272362-b1061dc8-984e-49b4-b42f-4317e6e12344.png">   
