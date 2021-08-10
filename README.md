@@ -69,8 +69,9 @@ WordCloud is a visualization technique for text data wherein each word is pictur
 
 # Deep Learning
 
+## Baseline Model
 
-# Handling Overfitting
+### Handling Overfitting
 
 * Reducing network's size
 
@@ -92,9 +93,12 @@ WordCloud is a visualization technique for text data wherein each word is pictur
    <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128790816-88b6a4cd-458a-4673-af50-10f1e2a19e10.png"> 
 </p>
 
+## Embedding Layer
+
+## Pre-trained Word Embedding: GloVe
+
 
 # Model Performance
-
 
 <p align="center">    
    <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128791676-c8137a52-4efb-47cc-a79a-56e1c044d5c4.png"> 
