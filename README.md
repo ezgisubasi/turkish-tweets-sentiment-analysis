@@ -62,15 +62,30 @@
 # Handling Overfitting
 
 * Reducing network's size
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 03 29 54" src="https://user-images.githubusercontent.com/52889449/128790723-1b3cab55-731e-4d01-a77b-e9a2fa99faf7.png">
+</p>
+
+
 * Adding regularization
-* Addinh dropout layers
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 03 30 43" src="https://user-images.githubusercontent.com/52889449/128790772-6a6ca4d3-0d62-42ee-9cc1-28f3a0ebccba.png">
+</p>
+
+* Adding dropout layers
+
+
+<p align="center">    
+   <img width="535" alt="Ekran Resmi 2021-08-10 03 31 38" src="https://user-images.githubusercontent.com/52889449/128790816-88b6a4cd-458a-4673-af50-10f1e2a19e10.png"> 
+</p>
 
 
 # Model Performance
 
-## Baseline Model
+![image](https://user-images.githubusercontent.com/52889449/128791676-c8137a52-4efb-47cc-a79a-56e1c044d5c4.png)
 
-## LSTM
 
 
 
