@@ -4,7 +4,7 @@
    <img width="900" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
 </p>
 
-This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative.
+This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative. Since Turkish is not the most studied language, it has an insufficient amount of data. Therefore I created a new dataset with 15000 tweets by combining multiple datasets.
 
 
 # Text Preprocessing
@@ -19,6 +19,7 @@ This sentiment analysis project determines whether the tweets posted in the Turk
 
 # Zemberek
 
+Zemberek is a natural language processing (NLP) tool that works with the Turkish language. This project performs the tokenization, sentence normalization, and lemmatization parts of the text preprocessing using this library. 
 
 # Data Visualization
 
@@ -29,7 +30,6 @@ It shows how many percent of tweets are positive or negative.
 <p align="center">    
    <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/127268283-0ac12507-17b4-4e5c-9181-1dbb1fb6bc69.png">   
 </p>
-
 
 ## Visulazing N-Grams
 
