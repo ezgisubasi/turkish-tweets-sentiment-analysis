@@ -4,7 +4,7 @@
    <img width="900" height="400" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/127268644-015209d7-7c11-44ff-92b4-691ca5e3686f.png">
 </p>
 
-This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative. Since Turkish is not the most studied language, it has an insufficient amount of data. Therefore I created a new dataset with 15000 tweets by combining multiple datasets.
+This sentiment analysis project determines whether the tweets posted in the Turkish language on Twitter are positive or negative. Since Turkish is not the most studied language, it has an insufficient amount of data. Therefore I used 15000 tweets by combining multiple datasets (Source: https://www.kaggle.com/datasets/anil1055/turkish-tweet-dataset).
 
 
 # Text Preprocessing
